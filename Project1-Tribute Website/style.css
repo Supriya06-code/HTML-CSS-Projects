@@ -4,7 +4,9 @@
   box-sizing: border-box;
 }
 .container {
-  background-color: rgb(234, 206, 235);
+  /* background-color: rgb(234, 206, 235); */
+
+  background: linear-gradient(to right, rgb(156, 155, 155), rgb(238, 235, 235), rgb(160, 155, 155)); /* Light Grey to Darker Grey */
   min-height: 100vh;
   border: 10px solid #1d1e4c;
 }
@@ -30,7 +32,7 @@ img {
 .top_section h1 {
   font-size: 50px;
   font-weight: bold;
-  color: rgb(234, 206, 235);
+  color: rgb(104, 6, 107);
   text-transform: uppercase;
 }
 .top_section h4 {
@@ -80,4 +82,5 @@ footer p {
   text-align: end;
   font-size: large;
   font-family:Arial, Helvetica, sans-serif
+  
 }
