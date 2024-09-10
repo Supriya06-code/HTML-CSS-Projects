@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background-color: #a77f7f;
+    background: linear-gradient(to right, rgb(158, 116, 116), rgb(139, 53, 53), rgb(167, 73, 73)); /* Light Grey to Darker Grey */
+}
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+
+}
+.apply_box{
+    max-width:600px;
+    padding: 20px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top:50px;
+    box-shadow: 10px 10px 10px rgba(1,1,1,0.1);
+    border-radius:10px;
+}
+
+.title_small{
+    font-size:20px;
+}
