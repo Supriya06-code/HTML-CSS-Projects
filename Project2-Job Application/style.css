@@ -5,7 +5,7 @@
 }
 body{
     background-color: #a77f7f;
-    background: linear-gradient(to right, rgb(196, 177, 177), rgb(139, 53, 53), rgb(168, 141, 141)); /* Light Grey to Darker Grey */
+    background: linear-gradient(to right, rgb(79, 167, 207), rgb(53, 97, 139), rgb(115, 157, 192)); /* Light Grey to Darker Grey */
 }
 .container{
     max-width: 900px;
